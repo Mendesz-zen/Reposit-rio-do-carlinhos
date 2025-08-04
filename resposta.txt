@@ -1,0 +1,9 @@
+1-) A
+2-) A
+3-) Criaríamos um repositório no GitHub para centralizar os arquivos da história. Cada um teria sua própria branch para escrever 
+partes diferentes,e depois usaríamos pull requests para revisar e unir 
+tudo de forma organizada, evitando conflitos e perdas de informação
+4-) A
+5-) O Git ajuda o time a controlar quem fez o quê e quando. Com branches, cada um pode trabalhar 
+em partes diferentes sem atrapalhar os outros. Quando tudo estiver pronto, dá pra juntar as
+alterações com segurança, usando pull requests e revisando antes de misturar o conteúdo
